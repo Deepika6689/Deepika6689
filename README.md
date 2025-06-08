@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepika6689
+👩‍💻 Hi, I’m @Deepika6689
 ## 🧠 About Me
 
 I'm currently pursuing my B.E. in AIML and have built several machine learning projects focused on health and agriculture. I enjoy learning new technologies, exploring datasets, and building tools that make a meaningful impact.
