@@ -8,10 +8,10 @@
 
 ## 🧠 About Me  
 
-I am an ambitious and curious undergraduate student pursuing **Artificial Intelligence and Machine Learning**.  
-I enjoy building **real-world projects** using Python, Machine Learning, and modern frameworks.  
+> Building intelligent solutions where **code meets data**.
 
-I am constantly exploring new technologies, strengthening my problem-solving skills, and working on projects that combine **software development with AI-driven solutions**.
+An undergraduate in **Artificial Intelligence & Machine Learning** focused on turning ideas into practical, real-world applications.  
+I work mainly with Python and machine learning frameworks, and I enjoy solving problems that sit at the intersection of **software engineering and AI**.
 
 ---
 
