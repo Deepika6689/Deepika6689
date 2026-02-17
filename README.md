@@ -125,7 +125,7 @@ I work mainly with Python and machine learning frameworks, and I enjoy solving p
 - Hands-on experience with **Python, web technologies, and databases**  
 - Focus on **real-world applications, problem-solving, and industry practices**
 
-```
+
 ## 📜 Certifications  
 
 🏅 Advanced Programming in C – Cisco Networking Academy  
