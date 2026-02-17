@@ -1,10 +1,4 @@
 # 👋 Hi, I’m Deepika Sajjan  
-<div align="center">
-
-## 💻 AI & ML Student | Software Developer  
-
-
-</div>
 
 
 🎓 B.E. Student in **Artificial Intelligence & Machine Learning**  
