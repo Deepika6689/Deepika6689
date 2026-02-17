@@ -114,6 +114,17 @@ I work mainly with Python and machine learning frameworks, and I enjoy solving p
 🔗 GitHub: https://github.com/Deepika6689/my-stats-dashboard1-main  
 
 ---
+## 💼 Internship Experience  
+
+### 🔹 Software Development Intern  
+🏢 Pentagon Space Pvt. Ltd., Bengaluru  
+📅 January 2026 – Present  
+
+- Selected for the **Pentagon Space Incubation Program (2026 Batch)**  
+- Working on **software development and AI-powered projects**  
+- Hands-on experience with **Python, web technologies, and databases**  
+- Focus on **real-world applications, problem-solving, and industry practices**
+
 
 ## 📜 Certifications  
 
