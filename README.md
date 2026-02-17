@@ -1,4 +1,13 @@
 # 👋 Hi, I’m Deepika Sajjan  
+<div align="center">
+
+## 💻 AI & ML Student | Software Developer  
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+</div>
+
 
 🎓 B.E. Student in **Artificial Intelligence & Machine Learning**  
 💻 Aspiring **Software Developer | Machine Learning Enthusiast**  
