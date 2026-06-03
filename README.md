@@ -1,4 +1,4 @@
-```markdown
+
 # Hi 👋, I'm Deepika Sajjan
 
 ### AI/ML Engineer | Software Developer | Computer Vision Enthusiast
