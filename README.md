@@ -2,58 +2,24 @@
 
 # Deepika Sajjan
 
-### AI/ML Engineer • Full Stack Developer • GenAI Enthusiast
+### AI/ML Engineer • Full Stack Developer • Fresher 2026
 
-```bash
-$ whoami
-AI/ML Engineer | Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+AI%2FML+Engineer;%24+skills+%E2%86%92+Python+%7C+TensorFlow+%7C+Django+%7C+LangGraph;%24+open-to+%E2%86%92+AI+Engineer+%2F+SDE+Roles;%24+status+%E2%86%92+Actively+Job+Hunting+2026" />
 
-$ education
-B.E. Artificial Intelligence & Machine Learning (CGPA: 8.0)
+<br/>
 
-$ current_role
-Software Development Intern @ Pentagon Space
+![Degree](https://img.shields.io/badge/B.E.-AI%20%26%20ML-2EC4B6?style=flat-square&labelColor=0D1117)
+![College](https://img.shields.io/badge/PDA%20College%20of%20Engineering-Kalaburagi-2EC4B6?style=flat-square&labelColor=0D1117)
+![CGPA](https://img.shields.io/badge/CGPA-8.0-2EC4B6?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Karnataka%2C%20India-2EC4B6?style=flat-square&labelColor=0D1117)
 
-$ open_to
-AI Engineer | SDE | Full Stack Developer Roles (2026)
-```
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Developing+Full+Stack+Applications;Exploring+GenAI+and+LangGraph;Open+to+AI+Engineer+Roles" />
-
-<br>
-
-![Degree](https://img.shields.io/badge/B.E.-AI%20%26%20ML-2EC4B6?style=for-the-badge&labelColor=0D1117)
-![CGPA](https://img.shields.io/badge/CGPA-8.0-2EC4B6?style=for-the-badge&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Karnataka-India-2EC4B6?style=for-the-badge&labelColor=0D1117)
-
-<br><br>
-
-<a href="https://linkedin.com/in/deepika-sajjan-22a041284">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2EC4B6?style=for-the-badge&logo=linkedin&labelColor=0D1117"/>
-</a>
-
-<a href="mailto:deepikasajjan6689@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-2EC4B6?style=for-the-badge&logo=gmail&labelColor=0D1117"/>
-</a>
-
-<a href="https://github.com/Deepika6689">
-<img src="https://img.shields.io/badge/GitHub-Deepika6689-2EC4B6?style=for-the-badge&logo=github&labelColor=0D1117"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2EC4B6?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://linkedin.com/in/deepika-sajjan-22a041284/)
+[![Email](https://img.shields.io/badge/Email-Contact-2EC4B6?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:deepikasajjan6689@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Deepika6689-2EC4B6?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/Deepika6689)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech |
-|----------|------|
-| AI Misinformation Audit Agent | LangGraph, RAG, NLI |
-| Loan Management System | Django, MySQL |
-| Plant Disease Detection | TensorFlow, OpenCV |
-| Pest Detection System | OpenCV, SQLite, Tkinter |
-
-
 ## `> whoami`
 
 
