@@ -162,8 +162,6 @@ duration: 2022 - 2026
 cgpa: 8.0
 sgpa: 9.6
 
-puc: Gurukul PU College, Gulbarga — 73%
-sslc: JTVP High School, Jewargi — 83%
 ```
 
 ## `> ls /github-analytics`
