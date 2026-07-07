@@ -25,6 +25,7 @@
 
 ## `> whoami`
 
+
 B.E. graduate in Artificial Intelligence and Machine Learning, building predictive models and full-stack applications across healthcare, agriculture, and finance. Currently a Software Development Intern at Pentagon Space, Bengaluru, and selected for the government-backed NAIN incubation program. Growing hands-on with GenAI — RAG pipelines, LangGraph agents, and prompt engineering.
 
 ```bash
