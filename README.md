@@ -1,23 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D1117&fontColor=2EC4B6&text=Deepika%20Sajjan&fontSize=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Fresher%202026&descColor=7DE2D1&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0D1117&fontColor=2EC4B6&text=Deepika%20Sajjan&fontSize=48&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Fresher%202026&descAlignY=65&descSize=18&descColor=7DE2D1&animation=fadeIn" />
 
-
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=2EC4B6&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI%2FML+Engineer+%7C+Full+Stack+Dev;%24+skills+%E2%86%92+Python+%7C+TensorFlow+%7C+Django+%7C+LangGraph;%24+cat+open-to.txt+%E2%86%92+AI+Engineer+%2F+SDE+Fresher+Roles;%24+status+%E2%86%92+Actively+Job+Hunting+2026" />
 
-<br/>
+<br/><br/>
 
 ![Degree](https://img.shields.io/badge/B.E.-AI%20%26%20ML-2EC4B6?style=flat-square&labelColor=0D1117)
 ![College](https://img.shields.io/badge/PDA%20College%20of%20Engineering-Kalaburagi-2EC4B6?style=flat-square&labelColor=0D1117)
 ![CGPA](https://img.shields.io/badge/CGPA-8.0-2EC4B6?style=flat-square&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/Location-Karnataka%2C%20India-2EC4B6?style=flat-square&labelColor=0D1117)
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2EC4B6?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://linkedin.com/in/deepika-sajjan-22a041284/)
 [![Email](https://img.shields.io/badge/Email-Contact-2EC4B6?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:deepikasajjan6689@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Deepika6689-2EC4B6?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/Deepika6689)
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Deepika6689&color=2EC4B6&style=flat-square&label=Profile+Views)
 
