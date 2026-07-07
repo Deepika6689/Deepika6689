@@ -1,160 +1,219 @@
+<div align="center">
 
-# Hi 👋, I'm Deepika Sajjan
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D1117&fontColor=2EC4B6&text=Deepika%20Sajjan&fontSize=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Fresher%202026&descColor=7DE2D1&animation=fadeIn" />
 
-### AI/ML Engineer | Software Developer | Computer Vision Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=2EC4B6&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI%2FML+Engineer+%7C+Full+Stack+Dev;%24+skills+%E2%86%92+Python+%7C+TensorFlow+%7C+Django+%7C+LangGraph;%24+cat+open-to.txt+%E2%86%92+AI+Engineer+%2F+SDE+Fresher+Roles;%24+status+%E2%86%92+Actively+Job+Hunting+2026" />
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/deepika-sajjan-22a041284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:deepikasajjan6689@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Deepika6689">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
----
+![Degree](https://img.shields.io/badge/B.E.-AI%20%26%20ML-2EC4B6?style=flat-square&labelColor=0D1117)
+![College](https://img.shields.io/badge/PDA%20College%20of%20Engineering-Kalaburagi-2EC4B6?style=flat-square&labelColor=0D1117)
+![CGPA](https://img.shields.io/badge/CGPA-8.0-2EC4B6?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Karnataka%2C%20India-2EC4B6?style=flat-square&labelColor=0D1117)
 
-## 🚀 About Me
+<br/>
 
-I'm an Artificial Intelligence & Machine Learning graduate passionate about building intelligent solutions using Machine Learning, Deep Learning, Computer Vision, and Full-Stack Development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2EC4B6?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://linkedin.com/in/deepika-sajjan-22a041284/)
+[![Email](https://img.shields.io/badge/Email-Contact-2EC4B6?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:deepikasajjan6689@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Deepika6689-2EC4B6?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/Deepika6689)
 
-- 💼 Software Development Intern at Pentagon Space
-- 🏆 Selected for the NAIN Incubation Program
-- 🤖 Interested in AI, Machine Learning, Computer Vision, and Web Development
-- 🌱 Currently learning Cloud Computing, MLOps, and System Design
-- 🎯 Aspiring Software Engineer / AI Engineer
+![Profile Views](https://komarev.com/ghpvc/?username=Deepika6689&color=2EC4B6&style=flat-square&label=Profile+Views)
 
----
+</div>
 
-## 🛠️ Tech Stack
+## `> whoami`
 
-### 💻 Programming Languages
+B.E. graduate in Artificial Intelligence and Machine Learning, building predictive models and full-stack applications across healthcare, agriculture, and finance. Currently a Software Development Intern at Pentagon Space, Bengaluru, and selected for the government-backed NAIN incubation program. Growing hands-on with GenAI — RAG pipelines, LangGraph agents, and prompt engineering.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+```bash
+$ cat .profile
 
-### 🤖 AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🌐 Web Development
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 💼 Experience
-
-### Software Development Intern | Pentagon Space
-
-**Jan 2026 – Present**
-
-- Worked on full-stack web development using Django and React JS
-- Developed REST APIs and database-driven applications
-- Learned software development lifecycle and industry practices
-- Collaborated on real-world projects and backend-frontend integration
-
----
-
-## 🚀 Projects
-
-### 💰 Loan Management System
-
-A full-stack loan management platform with separate user and admin portals.
-
-**Features**
-- Loan Application Management
-- EMI Tracking
-- Loan Approval Workflow
-- Analytics Dashboard
-- Secure Authentication
-
-**Tech Stack:** Django, MySQL, Python, HTML, CSS, JavaScript
-
----
-
-### 🌿 Plant Disease Detection System
-
-Deep learning-based solution for detecting plant diseases from leaf images.
-
-**Highlights**
-- Classified 33 plant diseases
-- CNN-based architecture
-- Image preprocessing and prediction pipeline
-
-**Tech Stack:** TensorFlow, Keras, OpenCV, Python
-
----
-
-### 🐛 Insect & Pest Detection in Stored Grains
-
-Government-supported NAIN project focused on reducing post-harvest grain losses.
-
-**Highlights**
-- Real-time pest detection
-- Image processing techniques
-- Grain storage monitoring
-
-**Tech Stack:** Python, OpenCV, SQLite, Tkinter
-
----
-
-## 🏆 Achievements
-
-- 🥇 Selected for NAIN (New Age Innovation Network)
-- 🚀 Government-backed innovation and incubation support
-- 💡 Developed AI solutions in agriculture, healthcare, and finance
-- 🌐 Built full-stack applications using Django and React
-
----
-
-## 📜 Certifications
-
-- Advanced Programming in C – Cisco Networking Academy
-- Internet of Things – NPTEL
-- Soft Skills – NPTEL
-- Complete Python with DSA & LeetCode – Udemy
-- Python with Data Science – Ethnotech Academic Solutions
-
----
-
-
-
-
-
----
-
-## 🌐 Connect With Me
-
-📧 Email: deepikasajjan6689@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/deepika-sajjan-22a041284/
-
-💻 GitHub: https://github.com/Deepika6689
-
----
-
-⭐ "Turning ideas into intelligent solutions through code and innovation."
+ROLE     =  AI/ML Engineer | Full Stack Developer
+EXP      =  Fresher (Interning at Pentagon Space, Bengaluru)
+DOMAIN   =  Machine Learning | Computer Vision | GenAI | Full Stack Dev
+STACK    =  Python | TensorFlow | Django | React | LangGraph
+OPEN_TO  =  AI Engineer / Full Stack (SDE) Fresher Roles — Bengaluru, Hyderabad, Remote
 ```
+
+## `> ls /tech-stack`
+
+**Languages**
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark)
+
+**AI / Machine Learning**
+![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark)
+
+**Web Development**
+![Skills](https://skillicons.dev/icons?i=django,react,mysql,sqlite&theme=dark)
+
+**Tools**
+![Skills](https://skillicons.dev/icons?i=vscode,git,github,anaconda&theme=dark)
+
+**GenAI / LLM**
+![LangGraph](https://img.shields.io/badge/LangGraph-2EC4B6?style=flat-square&labelColor=0D1117) ![RAG](https://img.shields.io/badge/RAG-2EC4B6?style=flat-square&labelColor=0D1117) ![NLI](https://img.shields.io/badge/NLI%20Verification-2EC4B6?style=flat-square&labelColor=0D1117) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2EC4B6?style=flat-square&labelColor=0D1117)
+
+## `> cat expertise.md`
+
+| Domain | Proficiency | Details |
+| :-- | :-- | :-- |
+| Machine Learning / Deep Learning | ●●●●○ | CNNs, TensorFlow/Keras — built a 33-class plant disease classifier |
+| Computer Vision | ●●●●○ | OpenCV-based detection systems for agriculture and grain storage |
+| GenAI / Agentic AI | ●●●○○ | LangGraph agent for misinformation auditing using RAG + NLI verification |
+| Full Stack Development | ●●●●○ | Django + React + MySQL, live loan management system |
+| Python (OOP + Procedural) | ●●●●○ | Strong fundamentals, DSA practice via LeetCode |
+
+## `> ls /projects --featured`
+
+<details open>
+<summary><b>&#9654; AI Misinformation Audit Agent &mdash; Autonomous LangGraph Agent</b></summary>
+
+An autonomous agent that audits text claims for misinformation.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; LangGraph &middot; RAG &middot; NLI |
+| **Scale** | Feb 2026 &ndash; Mar 2026 &middot; Solo developer |
+| **Impact** | Helps readers and researchers quickly flag false or misleading claims, improving trust in online information |
+| **Repo** | [View](https://github.com/Deepika6689) |
+
+Built using LangGraph to orchestrate the agent, retrieving supporting evidence via Retrieval-Augmented Generation and verifying logical consistency with Natural Language Inference.
+
+</details>
+
+<details>
+<summary><b>&#9654; Loan Management System &mdash; Full Stack Platform</b></summary>
+
+Full-stack loan management platform with separate user and admin portals.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Django &middot; MySQL &middot; HTML/CSS/JS |
+| **Scale** | Feb 2026 &ndash; Apr 2026 &middot; End-to-end build during internship |
+| **Impact** | Streamlines loan processing with real-time EMI tracking and an analytics dashboard |
+| **Repo** | [View](https://github.com/Deepika6689/loan-project) |
+
+Supports loan applications, approval workflow, EMI tracking, and secure authentication.
+
+</details>
+
+<details>
+<summary><b>&#9654; Plant Disease Detection System &mdash; Deep Learning Classifier</b></summary>
+
+CNN-based system to detect plant diseases from leaf images.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | TensorFlow &middot; Keras &middot; OpenCV &middot; NumPy |
+| **Scale** | Mar 2025 &ndash; Jul 2025 &middot; Role: Team Lead &middot; Classifies 33 leaf diseases |
+| **Impact** | Supports early disease detection for improved crop protection |
+| **Repo** | [View](https://github.com/Deepika6689) |
+
+Led the team in designing a CNN architecture with an image preprocessing and prediction pipeline.
+
+</details>
+
+<details>
+<summary><b>&#9654; Insect & Pest Detection in Stored Grains &mdash; NAIN Program</b></summary>
+
+Government-supported project reducing post-harvest grain losses.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; OpenCV &middot; SQLite &middot; Tkinter |
+| **Scale** | Selected for NAIN (New Age Innovation Network), government-backed incubation |
+| **Impact** | Real-time pest detection and grain storage monitoring |
+| **Repo** | [View](https://github.com/Deepika6689) |
+
+Built real-time detection logic with OpenCV and a desktop GUI in Tkinter, with SQLite for storage monitoring data.
+
+</details>
+
+## `> cat experience.log`
+
+**Software Development Intern** — Pentagon Space, Bengaluru
+`Jan 2026 – Present`
+- Gained hands-on experience in full-stack web development using Django, React JS, and REST APIs
+- Collaborated with cross-functional teams as part of ongoing internship training
+- Worked on real-time projects covering the full software development lifecycle and backend-frontend integration
+- Developed scalable web applications and managed data using SQL databases
+- Tags: `Django` `React` `REST APIs` `MySQL` `Git`
+
+## `> cat achievements.md`
+
+| Achievement | Detail |
+| :-- | :-- |
+| 🏆 NAIN Incubation Program | Selected for the New Age Innovation Network — government-backed support for a stored-grain pest detection system |
+| 📜 Advanced Programming in C | Cisco Networking Academy (Feb 2024) |
+| 📜 Internet of Things & Soft Skills | NPTEL certification |
+| 📜 Complete Python with DSA & LeetCode | Udemy Bootcamp (Sep 2025) |
+| 📜 Python with Data Science | Ethnotech Academic Solutions Pvt. Ltd. (Jun 2025) |
+
+## `> cat education.yaml`
+
+![Education](https://img.shields.io/badge/B.E.-Artificial%20Intelligence%20%26%20Machine%20Learning-2EC4B6?style=for-the-badge&labelColor=0D1117)
+
+```yaml
+degree: B.E. in Artificial Intelligence and Machine Learning
+college: PDA College of Engineering, Kalaburagi, Karnataka
+duration: 2022 - 2026
+cgpa: 8.0
+sgpa: 9.6
+
+puc: Gurukul PU College, Gulbarga — 73%
+sslc: JTVP High School, Jewargi — 83%
+```
+
+## `> ls /github-analytics`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepika6689&show_icons=true&hide_border=true&title_color=2EC4B6&icon_color=7DE2D1&text_color=C9D1D9&bg_color=0D1117" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepika6689&hide_border=true&background=0D1117&stroke=2EC4B6&ring=7DE2D1&fire=2EC4B6&currStreakLabel=2EC4B6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepika6689&bg_color=0D1117&color=2EC4B6&line=2EC4B6&point=7DE2D1&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Deepika6689&theme=matrix&no-frame=true&column=7" />
+
+</div>
+
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - LangChain (Complete Generative AI with LangChain course — in progress)
+  - LangGraph (Complete Agentic AI with LangGraph course — in progress)
+  - Cloud Computing, MLOps, and System Design
+
+building:
+  - LangChain data ingestion pipeline for document processing
+  - RAG Pipeline with Hybrid Search (upcoming portfolio project)
+  - Agent Orchestration System (upcoming portfolio project)
+
+open_to:
+  - AI Engineer roles (fresher)
+  - Full Stack / SDE roles (fresher)
+  - Bengaluru, Hyderabad, or Remote (India)
+```
+
+<div align="center">
+
+### `> connect --with-me`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EC4B6?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://linkedin.com/in/deepika-sajjan-22a041284/)
+[![Email](https://img.shields.io/badge/Email-2EC4B6?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:deepikasajjan6689@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2EC4B6?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/Deepika6689)
+
+*"Turning ideas into intelligent solutions through code and innovation."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D1117&fontColor=2EC4B6&height=100&section=footer" />
+
+</div>
