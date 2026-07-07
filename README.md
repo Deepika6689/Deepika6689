@@ -1,7 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0D1117&text=Deepika%20Sajjan&fontColor=2EC4B6&fontSize=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0D1117&text=Deepika%20Sajjan&fontColor=2EC4B6&fontSize=45" />
+
 ### AI/ML Engineer • Full Stack Developer • Fresher 2026
+
+<p>
+Building AI Solutions • Full-Stack Applications • GenAI Projects
+</p>
+
 <br/>
 
 ![Degree](https://img.shields.io/badge/B.E.-AI%20%26%20ML-2EC4B6?style=flat-square&labelColor=0D1117)
