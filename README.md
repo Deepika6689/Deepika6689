@@ -20,7 +20,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Deepika6689-2EC4B6?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/Deepika6689)
 
 </div>
-`> whoami`
+##`> whoami`
 
 
 B.E. graduate in Artificial Intelligence and Machine Learning, building predictive models and full-stack applications across healthcare, agriculture, and finance. Currently a Software Development Intern at Pentagon Space, Bengaluru, and selected for the government-backed NAIN incubation program. Growing hands-on with GenAI — RAG pipelines, LangGraph agents, and prompt engineering.
