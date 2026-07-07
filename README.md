@@ -4,8 +4,7 @@
 
 ### AI/ML Engineer • Full Stack Developer • Fresher 2026
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+AI%2FML+Engineer;%24+skills+%E2%86%92+Python+%7C+TensorFlow+%7C+Django+%7C+LangGraph;%24+open-to+%E2%86%92+AI+Engineer+%2F+SDE+Roles;%24+status+%E2%86%92+Actively+Job+Hunting+2026" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0D1117&text=Deepika%20Sajjan&fontColor=2EC4B6&fontSize=40" />
 <br/>
 
 ![Degree](https://img.shields.io/badge/B.E.-AI%20%26%20ML-2EC4B6?style=flat-square&labelColor=0D1117)
