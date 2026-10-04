@@ -1,220 +1,113 @@
-<div align="center">
+# Deepika Sajjan
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0D1117&text=Deepika%20Sajjan&fontColor=2EC4B6&fontSize=45" />
-
-### AI/ML Engineer • Full Stack Developer • Fresher 2026
-
-<p>
-Building AI Solutions • Full-Stack Applications • GenAI Projects
-</p>
-
-<br/>
-
-![Degree](https://img.shields.io/badge/B.E.-AI%20%26%20ML-2EC4B6?style=flat-square&labelColor=0D1117)
-![College](https://img.shields.io/badge/PDA%20College%20of%20Engineering-Kalaburagi-2EC4B6?style=flat-square&labelColor=0D1117)
-![CGPA](https://img.shields.io/badge/CGPA-8.0-2EC4B6?style=flat-square&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Location-Karnataka%2C%20India-2EC4B6?style=flat-square&labelColor=0D1117)
-
-<br/><br/>
+**AI/ML Engineer · Python · Full-Stack Developer**
+B.E. in Artificial Intelligence & Machine Learning · 2026 graduate · Karnataka, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2EC4B6?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://linkedin.com/in/deepika-sajjan-22a041284/)
 [![Email](https://img.shields.io/badge/Email-Contact-2EC4B6?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:deepikasajjan6689@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Deepika6689-2EC4B6?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/Deepika6689)
 
-</div>
+I build computer vision and GenAI projects in Python, and full-stack web apps with Django and React. My work so far covers agriculture, finance, and LLM-based fact-checking.
 
-## `> whoami`
+- **Now:** Software Development Intern at Pentagon Space, Bengaluru (Jan 2026 – present)
+- **Recognition:** Selected for the NAIN (New Age Innovation Network) government-backed incubation program
+- **Looking for:** AI Engineer and Full Stack / SDE fresher roles in Bengaluru, Hyderabad, or remote (India)
 
+---
 
-B.E. graduate in Artificial Intelligence and Machine Learning, building predictive models and full-stack applications across healthcare, agriculture, and finance. Currently a Software Development Intern at Pentagon Space, Bengaluru, and selected for the government-backed NAIN incubation program. Growing hands-on with GenAI — RAG pipelines, LangGraph agents, and prompt engineering.
+## About
 
-```bash
-$ cat .profile
+I'm an AI & ML graduate who likes taking a project from idea to a working system. I've built computer vision tools for agriculture, including a 33-class plant disease classifier with a deployed web app and a stored-grain pest detection system selected for the NAIN incubation program. I've also built a LangGraph-based agent that fact-checks articles claim by claim.
 
-ROLE     =  AI/ML Engineer | Full Stack Developer
-EXP      =  Fresher (Interning at Pentagon Space, Bengaluru)
-DOMAIN   =  Machine Learning | Computer Vision | GenAI | Full Stack Dev
-STACK    =  Python | TensorFlow | Django | React | LangGraph
-OPEN_TO  =  AI Engineer / Full Stack (SDE) Fresher Roles — Bengaluru, Hyderabad, Remote
-```
+At Pentagon Space, I'm working on full-stack development with Django, React, and REST APIs, and built a loan management system there. I'm now going deeper into RAG and agent workflows with LangChain and LangGraph.
 
-## `> ls /tech-stack`
+---
 
-**Languages**
-![Skills](https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark)
+## Featured Projects
 
-**AI / Machine Learning**
-![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark)
+### 1. AI Misinformation Audit Agent
+`Python` `LangGraph` `LangChain` `ChromaDB` `DeBERTa-v3 (NLI)` `FastAPI` `Docker` · Feb – Mar 2026
+[Repository](https://github.com/Deepika6689/misinfoagent-project)
 
-**Web Development**
-![Skills](https://skillicons.dev/icons?i=django,react,mysql,sqlite&theme=dark)
+A fact-checking system that reads an article claim by claim, gathers evidence, and produces a structured credibility report.
 
-**Tools**
-![Skills](https://skillicons.dev/icons?i=vscode,git,github,anaconda&theme=dark)
+- **Pipeline:** claim extraction → evidence retrieval → NLI verdict (Supported / Refuted / Not Enough Information) → contradiction check → audit report. LangGraph orchestrates the steps.
+- **Two evidence sources:** a ChromaDB vector store built from a trusted document corpus, plus live web search (Serper API) for recent claims the corpus can't cover.
+- **Why NLI:** a dedicated DeBERTa-v3 classifier judges each claim against its evidence instead of asking an LLM "is this true?", which keeps the verdict narrower and easier to audit.
+- **Contradiction detection:** claims are also compared against each other, so an article that contradicts itself gets flagged.
+- **Interface:** FastAPI backend with a web frontend.
 
-**GenAI / LLM**
-![LangGraph](https://img.shields.io/badge/LangGraph-2EC4B6?style=flat-square&labelColor=0D1117) ![RAG](https://img.shields.io/badge/RAG-2EC4B6?style=flat-square&labelColor=0D1117) ![NLI](https://img.shields.io/badge/NLI%20Verification-2EC4B6?style=flat-square&labelColor=0D1117) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2EC4B6?style=flat-square&labelColor=0D1117)
+### 2. Insect & Pest Detection in Stored Grains
+`Python` `OpenCV` `Tkinter` `SQLite` · Selected for the NAIN incubation program (government-backed)
 
-## `> cat expertise.md`
+Insects in stored grain are a major cause of post-harvest loss. This project uses computer vision to detect them and support grain storage monitoring.
 
-| Domain | Proficiency | Details |
-| :-- | :-- | :-- |
-| Machine Learning / Deep Learning | ●●●●○ | CNNs, TensorFlow/Keras — built a 33-class plant disease classifier |
-| Computer Vision | ●●●●○ | OpenCV-based detection systems for agriculture and grain storage |
-| GenAI / Agentic AI | ●●●○○ | LangGraph agent for misinformation auditing using RAG + NLI verification |
-| Full Stack Development | ●●●●○ | Django + React + MySQL, live loan management system |
-| Python (OOP + Procedural) | ●●●●○ | Strong fundamentals, DSA practice via LeetCode |
+- **Detection:** real-time detection logic built with OpenCV.
+- **Application:** a Tkinter desktop GUI, with SQLite storing monitoring data.
 
-## `> ls /projects --featured`
+### 3. Loan Management System
+`Django` `MySQL` `HTML/CSS/JS` · Feb – Apr 2026 · Built during internship
+[Repository](https://github.com/Deepika6689/loan-project)
 
-<details open>
-<summary><b>&#9654; AI Misinformation Audit Agent &mdash; Autonomous LangGraph Agent</b></summary>
+A full-stack platform with separate user and admin portals.
 
-An autonomous agent that audits text claims for misinformation.
+- **Features:** loan applications, an approval workflow, EMI tracking, an analytics dashboard, and secure authentication.
+- **My role:** built end to end as part of my internship project work.
 
-| Aspect | Detail |
+### 4. Plant Disease Detection (Smart AgroVision)
+`TensorFlow` `React` `TypeScript` `Vite` · Original: Mar – Jul 2025 · Team Lead
+[Smart AgroVision repo](https://github.com/Deepika6689/Smart-AgroVision) · [Live demo](https://jovial-phoenix-7c8303.netlify.app/) · [Original repo](https://github.com/Deepika6689/plant-disease-detection)
+
+A CNN-based classifier that identifies 33 plant disease classes from leaf images. It was later rebuilt as a React + TypeScript web app and deployed on Netlify.
+
+- **Original build:** CNN architecture plus an image preprocessing and prediction pipeline (TensorFlow, Keras, OpenCV, NumPy), led as team lead.
+- **Smart AgroVision:** upload a leaf image and get the predicted disease with severity, causes, symptoms, and suggested treatments.
+
+---
+
+## Experience
+
+**Software Development Intern** · Pentagon Space, Bengaluru · *Jan 2026 – Present*
+
+- **Training:** full-stack development with Django, React, and REST APIs.
+- **Project work:** built the [Loan Management System](https://github.com/Deepika6689/loan-project) (Django + MySQL) end to end.
+- **Team practice:** worked on projects across the development lifecycle, including backend–frontend integration, using SQL databases and Git.
+
+---
+
+## Tech Stack
+
+| Area | Tools |
 | :-- | :-- |
-| **Stack** | Python &middot; LangGraph &middot; RAG &middot; NLI |
-| **Scale** | Feb 2026 &ndash; Mar 2026 &middot; Solo developer |
-| **Impact** | Helps readers and researchers quickly flag false or misleading claims, improving trust in online information |
-| **Repo** | [View](https://github.com/Deepika6689) |
+| **Languages** | Python, TypeScript, JavaScript, SQL, C, HTML/CSS |
+| **ML & Computer Vision** | TensorFlow, Keras, OpenCV, NumPy |
+| **GenAI** | LangGraph, LangChain, RAG, ChromaDB, NLI-based verification |
+| **Backend & Data** | Django, FastAPI, REST APIs, MySQL, SQLite |
+| **Frontend & Desktop** | React, Vite, HTML/CSS/JavaScript, Tkinter |
+| **Tools** | Git, GitHub, Docker, Netlify |
 
-Built using LangGraph to orchestrate the agent, retrieving supporting evidence via Retrieval-Augmented Generation and verifying logical consistency with Natural Language Inference.
+---
 
-</details>
+## Education
 
-<details>
-<summary><b>&#9654; Loan Management System &mdash; Full Stack Platform</b></summary>
+**B.E. in Artificial Intelligence & Machine Learning**
+PDA College of Engineering, Kalaburagi, Karnataka · 2022 – 2026 · CGPA: 8.0
 
-Full-stack loan management platform with separate user and admin portals.
+## Certifications
 
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Django &middot; MySQL &middot; HTML/CSS/JS |
-| **Scale** | Feb 2026 &ndash; Apr 2026 &middot; End-to-end build during internship |
-| **Impact** | Streamlines loan processing with real-time EMI tracking and an analytics dashboard |
-| **Repo** | [View](https://github.com/Deepika6689/loan-project) |
+- Python with Data Science: Ethnotech Academic Solutions Pvt. Ltd. (Jun 2025)
+- Complete Python with DSA & LeetCode: Udemy (Sep 2025)
+- Advanced Programming in C: Cisco Networking Academy (Feb 2024)
 
-Supports loan applications, approval workflow, EMI tracking, and secure authentication.
+---
 
-</details>
+## Currently
 
-<details>
-<summary><b>&#9654; Plant Disease Detection System &mdash; Deep Learning Classifier</b></summary>
+- **Learning:** LangChain and LangGraph (course work in progress)
+- **Building:** a LangChain document-ingestion pipeline
+- **Planned next:** a RAG system with hybrid search, then an agent orchestration project
 
-CNN-based system to detect plant diseases from leaf images.
+---
 
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | TensorFlow &middot; Keras &middot; OpenCV &middot; NumPy |
-| **Scale** | Mar 2025 &ndash; Jul 2025 &middot; Role: Team Lead &middot; Classifies 33 leaf diseases |
-| **Impact** | Supports early disease detection for improved crop protection |
-| **Repo** | [View](https://github.com/Deepika6689) |
+## Contact
 
-Led the team in designing a CNN architecture with an image preprocessing and prediction pipeline.
-
-</details>
-
-<details>
-<summary><b>&#9654; Insect & Pest Detection in Stored Grains &mdash; NAIN Program</b></summary>
-
-Government-supported project reducing post-harvest grain losses.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python &middot; OpenCV &middot; SQLite &middot; Tkinter |
-| **Scale** | Selected for NAIN (New Age Innovation Network), government-backed incubation |
-| **Impact** | Real-time pest detection and grain storage monitoring |
-| **Repo** | [View](https://github.com/Deepika6689) |
-
-Built real-time detection logic with OpenCV and a desktop GUI in Tkinter, with SQLite for storage monitoring data.
-
-</details>
-
-## `> cat experience.log`
-
-**Software Development Intern** — Pentagon Space, Bengaluru
-`Jan 2026 – Present`
-- Gained hands-on experience in full-stack web development using Django, React JS, and REST APIs
-- Collaborated with cross-functional teams as part of ongoing internship training
-- Worked on real-time projects covering the full software development lifecycle and backend-frontend integration
-- Developed scalable web applications and managed data using SQL databases
-- Tags: `Django` `React` `REST APIs` `MySQL` `Git`
-
-## `> cat achievements.md`
-
-| Achievement | Detail |
-| :-- | :-- |
-| 🏆 NAIN Incubation Program | Selected for the New Age Innovation Network — government-backed support for a stored-grain pest detection system |
-| 📜 Advanced Programming in C | Cisco Networking Academy (Feb 2024) |
-| 📜 Internet of Things & Soft Skills | NPTEL certification |
-| 📜 Complete Python with DSA & LeetCode | Udemy Bootcamp (Sep 2025) |
-| 📜 Python with Data Science | Ethnotech Academic Solutions Pvt. Ltd. (Jun 2025) |
-
-## `> cat education.yaml`
-
-![Education](https://img.shields.io/badge/B.E.-Artificial%20Intelligence%20%26%20Machine%20Learning-2EC4B6?style=for-the-badge&labelColor=0D1117)
-
-```yaml
-degree: B.E. in Artificial Intelligence and Machine Learning
-college: PDA College of Engineering, Kalaburagi, Karnataka
-duration: 2022 - 2026
-cgpa: 8.0
-sgpa: 9.6
-
-```
-
-## `> ls /github-analytics`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Deepika6689&show_icons=true&hide_border=true&title_color=2EC4B6&icon_color=7DE2D1&text_color=C9D1D9&bg_color=0D1117" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepika6689&hide_border=true&background=0D1117&stroke=2EC4B6&ring=7DE2D1&fire=2EC4B6&currStreakLabel=2EC4B6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepika6689&bg_color=0D1117&color=2EC4B6&line=2EC4B6&point=7DE2D1&area=true&hide_border=true" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deepika6689&theme=matrix&no-frame=true&column=7" />
-
-</div>
-
-## `> cat current-focus.yaml`
-
-```yaml
-learning:
-  - LangChain (Complete Generative AI with LangChain course — in progress)
-  - LangGraph (Complete Agentic AI with LangGraph course — in progress)
-  - Cloud Computing, MLOps, and System Design
-
-building:
-  - LangChain data ingestion pipeline for document processing
-  - RAG Pipeline with Hybrid Search (upcoming portfolio project)
-  - Agent Orchestration System (upcoming portfolio project)
-
-open_to:
-  - AI Engineer roles (fresher)
-  - Full Stack / SDE roles (fresher)
-  - Bengaluru, Hyderabad, or Remote (India)
-```
-
-<div align="center">
-
-### `> connect --with-me`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EC4B6?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://linkedin.com/in/deepika-sajjan-22a041284/)
-[![Email](https://img.shields.io/badge/Email-2EC4B6?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:deepikasajjan6689@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2EC4B6?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/Deepika6689)
-
-*"Turning ideas into intelligent solutions through code and innovation."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0D1117&fontColor=2EC4B6&height=100&section=footer" />
-
-</div>
+[LinkedIn](https://linkedin.com/in/deepika-sajjan-22a041284/) · [Email](mailto:deepikasajjan6689@gmail.com) · [GitHub](https://github.com/Deepika6689)
