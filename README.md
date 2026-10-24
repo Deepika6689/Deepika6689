@@ -1,99 +1,198 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Deepika Sajjan. Engineering intelligent systems. Building software that solves real problems. Open to full-time roles, class of 2026." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:134E4A,100:2EC4B6&text=Deepika%20Sajjan&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Software%20Engineer&descAlignY=58&descSize=20" alt="Deepika Sajjan" />
 
-<br/>
+![Open to roles](https://img.shields.io/badge/OPEN%20TO-AI%20%2F%20SDE%20ROLES-2EC4B6?style=for-the-badge&labelColor=0D1117)
+![Class of 2026](https://img.shields.io/badge/CLASS%20OF-2026-2EC4B6?style=for-the-badge&labelColor=0D1117)
+![Location](https://img.shields.io/badge/BENGALURU%20%C2%B7%20HYDERABAD%20%C2%B7%20REMOTE-2EC4B6?style=for-the-badge&labelColor=0D1117)
 
-<a href="https://github.com/Deepika6689"><img src="assets/btn-github.svg" height="40" alt="GitHub" /></a>&nbsp;
-<a href="https://linkedin.com/in/deepika-sajjan-22a041284/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:deepikasajjan6689@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepika-sajjan-22a041284/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepikasajjan6689@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Deepika6689-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepika6689)
+
+### I build LLM systems that show their evidence, and the full-stack apps around them.
 
 </div>
 
-<img src="assets/sec-about.svg" width="100%" alt="01 / Profile" />
+<br/>
 
-```yaml
-name:       Deepika Sajjan
-education:  B.E. Artificial Intelligence & Machine Learning, 2026
-            PDA College of Engineering, Kalaburagi (CGPA 8.0)
-experience: Software Development Intern, Pentagon Space, Bengaluru
-recognition: Selected for NAIN, a government-backed incubation program
-status:     Recent graduate, open to full-time roles
-base:       Bengaluru · Hyderabad · Remote
+## 👩‍💻 At a glance
+
+| | |
+| :-- | :-- |
+| **💼 Now** | Software Development Intern · **Pentagon Space**, Bengaluru (Jan 2026 – present) |
+| **🏅 Recognition** | Selected for **NAIN**, a government-backed incubation program |
+| **🎓 Education** | B.E. in AI & ML · PDA College of Engineering · CGPA 8.0 |
+| **🎯 Looking for** | AI Engineer and Full Stack / SDE fresher roles |
+
+<br/>
+
+## 🧰 Tech stack
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=2EC4B6)
+![RAG](https://img.shields.io/badge/RAG-2EC4B6?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+<br/>
+
+## 🚀 Featured project
+
+### 🛡️ AI Misinformation Audit Agent
+
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logoColor=2EC4B6)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+![DeBERTa-v3](https://img.shields.io/badge/DeBERTa--v3%20NLI-2EC4B6?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Reads an article **claim by claim**, gathers evidence from a trusted corpus and live search, and returns a credibility report. A dedicated NLI model labels each claim **Supported / Refuted / Not Enough Info**, so every verdict is auditable. Articles that contradict themselves get flagged.
+
+```mermaid
+flowchart LR
+  A[Article] --> B[Claim extraction]
+  B --> C[(ChromaDB<br/>trusted corpus)]
+  B --> D[Live search]
+  C --> E[NLI verifier]
+  D --> E
+  E --> F[Contradiction check]
+  F --> G[Audit report]
 ```
 
-I build **LLM systems that show their evidence** and the **full-stack software** around them. On the AI side that means retrieval, agents and verification. On the software side, Python backends, databases and React front ends.
+[![View repo](https://img.shields.io/badge/View-Repository-2EC4B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Deepika6689/misinfoagent-project)
 
-**Looking for:** Software Engineer · Python Developer · AI / Applied AI Engineer · Entry-level Full Stack Developer
+<br/>
 
-<img src="assets/sec-signature.svg" width="100%" alt="02 / Signature project" />
-
-## AI Misinformation Audit Agent
-
-Reads an article **claim by claim**, gathers evidence from a trusted corpus and from live search, and labels each claim **Supported**, **Refuted** or **Not Enough Info** with a dedicated NLI model. It also flags claims that contradict *each other* inside the same article.
-
-<img src="assets/architecture.svg" width="100%" alt="Architecture: article, claim extractor, ChromaDB trusted corpus and Serper live search, DeBERTa-v3 NLI verifier, contradiction detector, audit report. Orchestrated by LangGraph, served by FastAPI and Docker." />
-
-- **Claim-level verdicts.** One fabricated statistic gets flagged instead of disappearing into an overall "looks fine".
-- **Two-track evidence.** The local corpus anchors trust, and live search covers recent events.
-- **Auditable by design.** DeBERTa-v3 NLI makes the call, not the LLM that wrote the report.
-
-`LangGraph` `ChromaDB` `DeBERTa-v3 NLI` `Serper` `FastAPI` `Docker`
-
-**[Source code on GitHub →](https://github.com/Deepika6689/misinfoagent-project)**
-
-<img src="assets/sec-projects.svg" width="100%" alt="03 / Project gallery" />
+## 🛠️ More projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Deepika6689/rag-pipeline-hybrid-search"><img src="assets/card-rag.svg" width="100%" alt="RAG with Hybrid Search. BM25 and dense retrieval fused with Reciprocal Rank Fusion, cross-encoder reranking, citation-verified answers." /></a>
-<sub><a href="https://github.com/Deepika6689/rag-pipeline-hybrid-search">Repository</a></sub>
+
+### 🔎 RAG with Hybrid Search
+Keyword + semantic retrieval over documents.
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View-Repo-2EC4B6?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Deepika6689/rag-pipeline-hybrid-search)
+
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Deepika6689/loan-project"><img src="assets/card-loan.svg" width="100%" alt="EasyLoan Management System. Django and MySQL loan platform with user and admin portals, EMI tracking, PDF receipts and analytics." /></a>
-<sub><a href="https://github.com/Deepika6689/loan-project">Repository</a></sub>
+
+### 💳 Loan Management System
+User and admin portals, approval workflow, EMI tracking and analytics dashboard.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View-Repo-2EC4B6?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Deepika6689/loan-project)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Deepika6689/Smart-AgroVision"><img src="assets/card-agro.svg" width="100%" alt="Smart AgroVision. Plant disease classifier across 33 classes with severity, causes, symptoms and treatments." /></a>
-<sub><a href="https://github.com/Deepika6689/Smart-AgroVision">Repository</a> · <a href="https://jovial-phoenix-7c8303.netlify.app/">Live demo</a> · <a href="https://github.com/Deepika6689/plant-disease-detection">Original model</a></sub>
+
+### 🌿 Smart AgroVision
+33-class plant disease classifier with severity, causes, symptoms and treatments.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[![Repo](https://img.shields.io/badge/View-Repo-2EC4B6?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Deepika6689/Smart-AgroVision) [![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://jovial-phoenix-7c8303.netlify.app/)
+
 </td>
 <td width="50%" valign="top">
-<img src="assets/card-pest.svg" width="100%" alt="Stored-Grain Pest Detection. OpenCV insect detection with hardware components. Selected for NAIN." />
-<sub>Government-backed NAIN incubation</sub>
+
+### 🌾 Stored-Grain Pest Detection
+Real-time insect detection for grain storage. Selected for **NAIN**.
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/card-sql.svg" width="100%" alt="Text-to-SQL Interface. Natural language to SQL with guardrails and hallucination detection." />
-<sub>In development</sub>
+
+### 🗄️ Text-to-SQL Interface
+Natural language to SQL with guardrails and hallucination detection.
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-2EC4B6?style=flat-square)
+
 </td>
 <td width="50%" valign="top">
-<img src="assets/card-docx.svg" width="100%" alt="Agentic Document Builder. Autonomous document-writing agent built with FastAPI and Groq." />
-<sub>Agent workflow</sub>
+
+### 📝 Agentic Docx Builder
+Autonomous agent that plans and writes full documents.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
 </td>
 </tr>
 </table>
 
-<img src="assets/sec-stack.svg" width="100%" alt="04 / Stack" />
+<br/>
 
-<img src="assets/stack.svg" width="100%" alt="Skills. Languages: Python, SQL, JavaScript, TypeScript. AI and ML: machine learning, deep learning, LLM apps, RAG, LangGraph, ChromaDB. Vision: TensorFlow, Keras, OpenCV. Backend: Django, FastAPI, MySQL, SQLite. Frontend: React, TypeScript, Vite. Tooling: Git, GitHub, Docker." />
+## 📚 Education & certifications
 
-<sub>**Certifications:** Python with Data Science (Ethnotech Academic Solutions, 2025) · Complete Python with DSA & LeetCode (Udemy, 2025) · Advanced Programming in C (Cisco Networking Academy, 2024)</sub>
+**B.E. in Artificial Intelligence & Machine Learning** · PDA College of Engineering, Kalaburagi · 2022 – 2026 · CGPA 8.0
 
-<img src="assets/sec-contact.svg" width="100%" alt="05 / Contact" />
-
-<div align="center">
-
-**Hiring for AI or software roles? Let's talk.**
-
-<a href="https://linkedin.com/in/deepika-sajjan-22a041284/"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:deepikasajjan6689@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email" /></a>
+| Certification | Issuer | Date |
+| :-- | :-- | :-- |
+| Python with Data Science | Ethnotech Academic Solutions | Jun 2025 |
+| Complete Python with DSA & LeetCode | Udemy | Sep 2025 |
+| Advanced Programming in C | Cisco Networking Academy | Feb 2024 |
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="exit 0" />
+## 🔭 Currently
+
+| 📚 Learning | 🔨 Building | ⏭️ Next |
+| :-- | :-- | :-- |
+| Advanced LangGraph and agent patterns | Reliable, evidence-grounded LLM systems | Agent orchestration project, then fine-tuning |
+
+<br/>
+
+<div align="center">
+
+### 🤝 Let's build something together
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepika-sajjan-22a041284/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepikasajjan6689@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2EC4B6,50:134E4A,100:0D1117&section=footer" alt="" />
 
 </div>
