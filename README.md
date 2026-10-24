@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,60:134E4A,100:2EC4B6&text=Deepika%20Sajjan&fontColor=FFFFFF&fontSize=50&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20Python%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=20" alt="Deepika Sajjan" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0D1117,50:134E4A,100:2EC4B6&text=Deepika%20Sajjan&fontColor=FFFFFF&fontSize=56&fontAlignY=42&desc=%3C%20AI%20Engineer%20%2F%3E%20%2B%20%3C%20Software%20Engineer%20%2F%3E&descAlignY=64&descSize=20" alt="Deepika Sajjan" />
+
+<a href="https://github.com/Deepika6689">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=2EC4B6&center=true&vCenter=true&width=700&lines=I+build+agents+that+verify+before+they+answer;I+ship+full-stack+apps+people+can+actually+use;Computer+vision+%7C+RAG+%7C+LangGraph+%7C+Django+%7C+React;Idea+%E2%86%92+working+system+%E2%86%92+deployed" alt="typing" />
+</a>
 
 ![B.E. AI & ML](https://img.shields.io/badge/B.E.-AI%20%26%20ML-0D1117?style=for-the-badge&labelColor=0D1117&color=2EC4B6)
 ![Class of 2026](https://img.shields.io/badge/Class%20of-2026-0D1117?style=for-the-badge&labelColor=0D1117&color=2EC4B6)
@@ -14,37 +18,47 @@
 
 <br/>
 
-<div align="center">
+## `$ whoami`
 
-I build computer vision and GenAI projects in Python, and full-stack web apps with Django and React.<br/>
-My work so far covers **agriculture**, **finance**, and **LLM-based fact-checking**.
+```python
+class Deepika:
+    role      = ["AI Engineer", "Software Engineer"]   # dual-core, one brain
+    degree    = "B.E. AI & ML · PDA College of Engineering · 2026"
+    base      = "Karnataka, India"
+    open_to   = ["AI Engineer (fresher)", "Full Stack / SDE (fresher)"]
+    locations = ["Bengaluru", "Hyderabad", "Remote (India)"]
 
-</div>
+    def superpower(self):
+        return "takes a messy idea and ships it as a working, deployed system"
+
+    def philosophy(self):
+        return "don't ask an LLM if it's true, make it show the evidence"
+```
 
 <br/>
 
+## ⚡ Dual-Core Engineer
+
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 💼 Now
-Software Development Intern<br/>
-**Pentagon Space**, Bengaluru<br/>
-<sub>Jan 2026 – present</sub>
-
-</td>
-<td width="33%" valign="top">
-
-### 🏅 Recognition
-Selected for **NAIN** (New Age Innovation Network), a government-backed incubation program<br/>
-<sub>For a stored-grain pest detection system</sub>
+### 🧠 AI Core
+- Agents & orchestration with **LangGraph / LangChain**
+- **RAG** pipelines, hybrid search, vector stores (**ChromaDB**)
+- **NLI-based verification** instead of vibes-based LLM answers
+- **Computer vision** with TensorFlow, Keras and OpenCV
+- Guardrails & hallucination detection for LLM apps
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🎯 Open to
-AI Engineer and Full Stack / SDE fresher roles<br/>
-<sub>Bengaluru · Hyderabad · Remote (India)</sub>
+### 🛠️ Software Core
+- Backends with **Django**, **FastAPI**, REST APIs
+- **React + TypeScript + Vite** frontends
+- **MySQL / SQLite** schema and query design
+- **Docker**, Git/GitHub, Netlify deployments
+- Role-based apps: user and admin portals, auth, workflows
 
 </td>
 </tr>
@@ -52,29 +66,22 @@ AI Engineer and Full Stack / SDE fresher roles<br/>
 
 <br/>
 
-## About
+## 🏅 Status Board
 
-I'm an AI & ML graduate who likes taking a project from idea to a working system. I've built computer vision tools for agriculture, including a 33-class plant disease classifier with a deployed web app and a stored-grain pest detection system selected for the NAIN incubation program. I've also built a LangGraph-based agent that fact-checks articles claim by claim.
-
-At Pentagon Space, I work on full-stack development with Django, React, and REST APIs, and built a loan management system there. I'm now going deeper into RAG and agent workflows with LangChain and LangGraph.
+| | |
+| :-- | :-- |
+| 💼 **Now** | Software Development Intern @ **Pentagon Space**, Bengaluru (Jan 2026 – present) |
+| 🏆 **Recognition** | Selected for **NAIN**, a government-backed incubation program, for stored-grain pest detection |
+| 🔭 **Focus** | Production-style RAG, agent workflows, and LLM reliability |
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Builds
 
 ### 🛡️ [AI Misinformation Audit Agent](https://github.com/Deepika6689/misinfoagent-project)
+`LangGraph` `LangChain` `ChromaDB` `DeBERTa-v3 NLI` `FastAPI` `Docker`
 
-![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=2EC4B6)
-![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logoColor=2EC4B6)
-![LangChain](https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=2EC4B6)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-161B22?style=flat-square&logoColor=2EC4B6)
-![DeBERTa-v3](https://img.shields.io/badge/DeBERTa--v3%20NLI-161B22?style=flat-square&logoColor=2EC4B6)
-![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=2EC4B6)
-![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2EC4B6)
-
-<sub>Feb – Mar 2026</sub>
-
-A fact-checking system that reads an article claim by claim, gathers evidence, and produces a structured credibility report.
+Reads an article **claim by claim**, gathers evidence, and returns a structured credibility report.
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#C9D1D9','primaryBorderColor':'#2EC4B6','lineColor':'#2EC4B6','fontSize':'13px'}}}%%
@@ -88,73 +95,55 @@ flowchart LR
   F --> G[Audit<br/>report]
 ```
 
-- **Two evidence sources:** a ChromaDB store built from a trusted corpus, plus live web search (Serper API) for recent claims the corpus can't cover.
-- **Why NLI:** a dedicated DeBERTa-v3 model labels each claim Supported, Refuted, or Not Enough Information, instead of asking an LLM "is this true?". The verdict is narrower and easier to audit.
-- **Contradiction detection:** claims are also compared against each other, so articles that contradict themselves get flagged.
-- **Orchestration and serving:** LangGraph runs the steps as an explicit graph, served through a FastAPI backend with a web frontend.
+- Two evidence sources: trusted corpus + live web search for recent claims
+- A dedicated NLI model labels each claim **Supported / Refuted / Not Enough Info**, so verdicts are narrow and auditable
+- Claims are cross-checked against each other to flag self-contradicting articles
 
 <br/>
 
-### 🌾 Insect & Pest Detection in Stored Grains · NAIN Program
+### 🔎 [RAG Pipeline with Hybrid Search](https://github.com/Deepika6689/rag-pipeline-hybrid-search)
+`LangChain` `Hybrid retrieval` `Vector store`
 
-![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=2EC4B6)
-![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=flat-square&logo=opencv&logoColor=2EC4B6)
-![Tkinter](https://img.shields.io/badge/Tkinter-161B22?style=flat-square&logoColor=2EC4B6)
-![SQLite](https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=2EC4B6)
+Retrieval that combines keyword and semantic search, built to go beyond a basic "chat with your docs" demo.
 
-<sub>Selected for the NAIN incubation program (government-backed)</sub>
+<br/>
 
-Insects in stored grain are a major cause of post-harvest loss. This project uses computer vision to detect them and support grain storage monitoring.
+### 🗄️ Text-to-SQL Interface
+`LLM` `MySQL` `Guardrails`
 
-- **Detection:** real-time detection logic built with OpenCV.
-- **Application:** a Tkinter desktop GUI, with SQLite storing monitoring data.
+Natural language to SQL against a Zomato database, with **guardrails and hallucination detection** so bad queries get caught before they run.
+
+<br/>
+
+### 📝 Agentic Docx Builder
+`FastAPI` `Groq` `Agents`
+
+An autonomous agent that plans and writes full documents on its own.
+
+<br/>
+
+### 🌾 Stored-Grain Insect & Pest Detection · NAIN
+`Python` `OpenCV` `Tkinter` `SQLite`
+
+Real-time insect detection for grain storage monitoring, with a desktop GUI and SQLite-backed records.
 
 <br/>
 
 ### 💳 [Loan Management System](https://github.com/Deepika6689/loan-project)
+`Django` `MySQL` `HTML/CSS/JS`
 
-![Django](https://img.shields.io/badge/Django-161B22?style=flat-square&logo=django&logoColor=2EC4B6)
-![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=2EC4B6)
-![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-161B22?style=flat-square&logo=javascript&logoColor=2EC4B6)
-
-<sub>Feb – Apr 2026 · Built during internship</sub>
-
-A full-stack platform with separate user and admin portals.
-
-- **Features:** loan applications, an approval workflow, EMI tracking, an analytics dashboard, and secure authentication.
-- **Role:** built end to end as part of my internship project work.
+Full-stack platform with separate user and admin portals: loan applications, approval workflow, EMI tracking, analytics dashboard and secure auth. Built end to end during my internship.
 
 <br/>
 
-### 🌿 [Plant Disease Detection: Smart AgroVision](https://github.com/Deepika6689/Smart-AgroVision)
+### 🌿 [Smart AgroVision: Plant Disease Detection](https://github.com/Deepika6689/Smart-AgroVision)
+`TensorFlow` `React` `TypeScript` `Vite`
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=2EC4B6)
-![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=2EC4B6)
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=2EC4B6)
-![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=2EC4B6)
-
-<sub>Original build Mar – Jul 2025 (Team Lead) · [Live demo](https://jovial-phoenix-7c8303.netlify.app/) · [Original repo](https://github.com/Deepika6689/plant-disease-detection)</sub>
-
-A CNN-based classifier that identifies 33 plant disease classes from leaf images, later rebuilt as a React + TypeScript web app deployed on Netlify.
-
-- **Original build:** CNN architecture plus an image preprocessing and prediction pipeline (TensorFlow, Keras, OpenCV, NumPy).
-- **Web app:** upload a leaf image and get the predicted disease with severity, causes, symptoms, and suggested treatments.
+33-class CNN leaf-disease classifier, rebuilt as a React web app that returns severity, causes, symptoms and treatments. [Live demo](https://jovial-phoenix-7c8303.netlify.app/)
 
 <br/>
 
-## Experience
-
-**Software Development Intern** · Pentagon Space, Bengaluru · *Jan 2026 – Present*
-
-| | |
-| :-- | :-- |
-| **Training** | Full-stack development with Django, React, and REST APIs |
-| **Project work** | Built the [Loan Management System](https://github.com/Deepika6689/loan-project) (Django + MySQL) end to end |
-| **Team practice** | Worked across the development lifecycle, including backend–frontend integration, SQL databases, and Git |
-
-<br/>
-
-## Tech Stack
+## 🧰 Tech Stack
 
 <table>
 <tr>
@@ -162,33 +151,32 @@ A CNN-based classifier that identifies 33 plant disease classes from leaf images
 <td><img src="https://skillicons.dev/icons?i=python,ts,js,c,html,css&theme=dark" alt="Languages" /></td>
 </tr>
 <tr>
-<td><b>ML & Computer Vision</b></td>
+<td><b>ML & Vision</b></td>
 <td><img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="TensorFlow, OpenCV" />&nbsp; <sub>Keras · NumPy</sub></td>
 </tr>
 <tr>
 <td><b>GenAI</b></td>
-<td><sub>LangGraph · LangChain · RAG · ChromaDB · NLI verification</sub></td>
+<td><sub>LangGraph · LangChain · RAG · Hybrid Search · ChromaDB · NLI · Groq</sub></td>
 </tr>
 <tr>
 <td><b>Backend & Data</b></td>
-<td><img src="https://skillicons.dev/icons?i=django,fastapi,mysql,sqlite&theme=dark" alt="Django, FastAPI, MySQL, SQLite" />&nbsp; <sub>REST APIs</sub></td>
+<td><img src="https://skillicons.dev/icons?i=django,fastapi,mysql,sqlite&theme=dark" alt="Backend" />&nbsp; <sub>REST APIs</sub></td>
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React, Vite" />&nbsp; <sub>Tkinter (desktop)</sub></td>
+<td><img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="Frontend" /></td>
 </tr>
 <tr>
 <td><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,netlify&theme=dark" alt="Git, GitHub, Docker, Netlify" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,netlify&theme=dark" alt="Tools" /></td>
 </tr>
 </table>
 
 <br/>
 
-## Education & Certifications
+## 🎓 Education & Certifications
 
-**B.E. in Artificial Intelligence & Machine Learning**<br/>
-PDA College of Engineering, Kalaburagi, Karnataka · 2022 – 2026 · CGPA 8.0
+**B.E. in Artificial Intelligence & Machine Learning** · PDA College of Engineering, Kalaburagi · 2022 – 2026 · CGPA 8.0
 
 | Certification | Issuer | Date |
 | :-- | :-- | :-- |
@@ -198,19 +186,35 @@ PDA College of Engineering, Kalaburagi, Karnataka · 2022 – 2026 · CGPA 8.0
 
 <br/>
 
-## Currently
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Deepika6689&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EC4B6&icon_color=2EC4B6&text_color=C9D1D9" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika6689&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EC4B6&text_color=C9D1D9" alt="top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepika6689&hide_border=true&background=0D1117&ring=2EC4B6&fire=2EC4B6&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=2EC4B6&sideNums=2EC4B6&dates=8B949E" alt="streak" />
+
+</div>
+
+<br/>
+
+## 🛰️ Currently
 
 | 📚 Learning | 🔨 Building | ⏭️ Next |
 | :-- | :-- | :-- |
-| LangChain and LangGraph (course work in progress) | A LangChain document-ingestion pipeline | A RAG system with hybrid search, then an agent orchestration project |
+| Advanced LangGraph and agent patterns | Reliable, evidence-grounded LLM systems | Agent orchestration project + fine-tuning |
 
 <br/>
 
 <div align="center">
 
+### 🤝 Let's build something
+
+If you're hiring for **AI Engineer** or **SDE** fresher roles, or just want to talk agents, RAG or full-stack, my inbox is open.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2EC4B6?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=2EC4B6)](https://linkedin.com/in/deepika-sajjan-22a041284/)
 [![Email](https://img.shields.io/badge/Email-2EC4B6?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=2EC4B6)](mailto:deepikasajjan6689@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2EC4B6?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=2EC4B6)](https://github.com/Deepika6689)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2EC4B6,60:134E4A,100:0D1117&section=footer" alt="" />
 
