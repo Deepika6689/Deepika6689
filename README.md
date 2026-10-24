@@ -20,11 +20,13 @@ experience: Software Development Intern, Pentagon Space, Bengaluru
 recognition: Selected for NAIN, a government-backed incubation program
 status:     Recent graduate, open to full-time roles
 base:       Bengaluru · Hyderabad · Remote
+learning:   Advanced LangGraph and agent patterns
+building:   Reliable, evidence-grounded LLM systems
 ```
 
 I build **LLM systems that show their evidence** and the **full-stack software** around them. On the AI side that means retrieval, agents and verification. On the software side, Python backends, databases and React front ends.
 
-**Looking for:** Software Engineer · Python Developer · AI / Applied AI Engineer · Entry-level Full Stack Developer
+**Open to:** Software Engineer · Python Developer · AI / Applied AI Engineer · Entry-level Full Stack Developer
 
 <img src="assets/sec-signature.svg" width="100%" alt="02 / Signature project" />
 
