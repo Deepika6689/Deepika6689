@@ -1,64 +1,115 @@
 <div align="center">
 
-# Deepika Sajjan
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · deepika6689</sub></p>
+<h1>Deepika sajjan</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>AIML undergraduate | Exploring different paths in tech | Eager to learn &amp; create.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-**AI Engineer · Software Engineer**
-
-I build LLM systems that show their evidence, and the full-stack apps around them.
-
-[LinkedIn](https://linkedin.com/in/deepika-sajjan-22a041284/) · [Email](mailto:deepikasajjan6689@gmail.com) · [Live demo](https://jovial-phoenix-7c8303.netlify.app/)
-
+<p><a href="https://github.com/deepika6689">GitHub</a> &nbsp;·&nbsp; <a href="https://github.com/Deepika6689">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/185798248?u=55448f6efe02cd7c6590c23eef3f3f9c7a98b0bc&amp;v=4" width="180" alt="Deepika sajjan GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-> [!NOTE]
-> **Open to** AI Engineer and Full Stack / SDE fresher roles · Bengaluru, Hyderabad, Remote (India)
+<h2>What teams can evaluate quickly</h2>
 
-## Featured work
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · Python · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>20 repositories · 7 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>325 contributions · 51 active days</p></td>
+</tr>
+</table>
 
-### 🛡️ [AI Misinformation Audit Agent](https://github.com/Deepika6689/misinfoagent-project)
-Reads an article claim by claim, gathers evidence, and returns a credibility report. A dedicated NLI model labels each claim *Supported / Refuted / Not Enough Info*, so every verdict can be audited instead of trusting an LLM's guess. It also flags articles that contradict themselves.
-**Stack:** LangGraph, LangChain, ChromaDB, DeBERTa-v3, FastAPI, Docker
+<p><sub>AIML undergraduate | Exploring different paths in tech | Eager to learn &amp; create.</sub></p>
 
-### 💳 [Loan Management System](https://github.com/Deepika6689/loan-project)
-Full-stack platform with separate user and admin portals: loan applications, approval workflow, EMI tracking, analytics dashboard and secure auth. Built end to end during my internship.
-**Stack:** Django, MySQL, HTML/CSS/JS
+<h2>Proof at a glance</h2>
 
-### 🌿 [Smart AgroVision](https://github.com/Deepika6689/Smart-AgroVision) · [Live demo](https://jovial-phoenix-7c8303.netlify.app/)
-33-class plant disease classifier. Upload a leaf image and get the disease with severity, causes, symptoms and treatments.
-**Stack:** TensorFlow, React, TypeScript, Vite
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>20</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>325</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-## Also built
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=deepika6689&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185798248%3Fu%3D55448f6efe02cd7c6590c23eef3f3f9c7a98b0bc%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=deepika6689&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185798248%3Fu%3D55448f6efe02cd7c6590c23eef3f3f9c7a98b0bc%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Deepika sajjan GitHub proof metrics" />
+</picture>
+</p>
 
-- [**RAG with Hybrid Search**](https://github.com/Deepika6689/rag-pipeline-hybrid-search): keyword + semantic retrieval over documents (LangChain)
-- **Text-to-SQL Interface**: natural language to SQL with guardrails and hallucination detection (MySQL)
-- **Agentic Docx Builder**: autonomous agent that plans and writes full documents (FastAPI, Groq)
-- **Stored-Grain Pest Detection**: real-time insect detection, selected for the government-backed NAIN incubation program (OpenCV, Tkinter, SQLite)
+<h2>Selected work</h2>
 
-## Stack
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=deepika6689&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185798248%3Fu%3D55448f6efe02cd7c6590c23eef3f3f9c7a98b0bc%26v%3D4&repos=deepika6689%2Frag-pipeline-hybrid-search%2Cdeepika6689%2Floan-project%2Cdeepika6689%2Ffrontend-mini-projects%2Cdeepika6689%2FSmart-AgroVision&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=deepika6689&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185798248%3Fu%3D55448f6efe02cd7c6590c23eef3f3f9c7a98b0bc%26v%3D4&repos=deepika6689%2Frag-pipeline-hybrid-search%2Cdeepika6689%2Floan-project%2Cdeepika6689%2Ffrontend-mini-projects%2Cdeepika6689%2FSmart-AgroVision&v=recruiter-projects-1&mode=dark" width="100%" alt="Deepika sajjan selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Deepika6689/rag-pipeline-hybrid-search">rag-pipeline-hybrid-search</a></h3>
+<p>A selected public project.</p>
+<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/Deepika6689/rag-pipeline-hybrid-search">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-| | |
-| :-- | :-- |
-| **AI / ML** | LangGraph, LangChain, RAG, ChromaDB, NLI verification, TensorFlow, Keras, OpenCV |
-| **Backend** | Python, Django, FastAPI, REST APIs |
-| **Frontend** | React, TypeScript, JavaScript, HTML, CSS |
-| **Data** | MySQL, SQLite |
-| **Tools** | Git, GitHub, Docker, Netlify |
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Deepika6689/loan-project">loan-project</a></h3><p>A Django + MySQL web app that digitizes loan management — handling customer registration, loan applications, admin approval, EMI calculation/payment t</p><p><sub>HTML · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Deepika6689/frontend-mini-projects">frontend-mini-projects</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Deepika6689/Smart-AgroVision">Smart-AgroVision</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 1</sub></p></td>
+</tr>
+</table>
 
-## Experience
+<h2>Technical toolkit</h2>
 
-**Software Development Intern** · Pentagon Space, Bengaluru · Jan 2026 – present
-Full-stack development with Django, React and REST APIs. Built the Loan Management System and worked across backend–frontend integration, SQL databases and Git.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=deepika6689&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185798248%3Fu%3D55448f6efe02cd7c6590c23eef3f3f9c7a98b0bc%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=deepika6689&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185798248%3Fu%3D55448f6efe02cd7c6590c23eef3f3f9c7a98b0bc%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Deepika sajjan technology stack" />
+</picture>
+</p>
 
-## Education
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>91% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
 
-**B.E. in Artificial Intelligence & Machine Learning** · PDA College of Engineering, Kalaburagi · 2022 – 2026 · CGPA 8.0
+<h2>Consistency signal</h2>
 
-Python with Data Science (Ethnotech, 2025) · Complete Python with DSA & LeetCode (Udemy, 2025) · Advanced Programming in C (Cisco, 2024)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=deepika6689&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185798248%3Fu%3D55448f6efe02cd7c6590c23eef3f3f9c7a98b0bc%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=deepika6689&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F185798248%3Fu%3D55448f6efe02cd7c6590c23eef3f3f9c7a98b0bc%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Deepika sajjan contribution activity" />
+</picture>
+</p>
 
-## Currently
+<hr />
 
-Going deeper into LangGraph and agent patterns. Next: an agent orchestration project, then fine-tuning.
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/deepika6689">GitHub</a><br /><a href="https://github.com/Deepika6689">Website</a></td>
+</tr>
+</table>
 
-## Contact
-
-[LinkedIn](https://linkedin.com/in/deepika-sajjan-22a041284/) · [deepikasajjan6689@gmail.com](mailto:deepikasajjan6689@gmail.com) · [GitHub](https://github.com/Deepika6689)
+<p align="center"><sub>Deepika sajjan · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
