@@ -12,17 +12,7 @@
 
 <img src="assets/sec-about.svg" width="100%" alt="01 / Profile" />
 
-```yaml
-name:       Deepika Sajjan
-education:  B.E. Artificial Intelligence & Machine Learning, 2026
-            PDA College of Engineering, Kalaburagi (CGPA 8.0)
-experience: Software Development Intern, Pentagon Space, Bengaluru
-recognition: Selected for NAIN, a government-backed incubation program
-status:     Recent graduate, open to full-time roles
-base:       Bengaluru · Hyderabad · Remote
-learning:   Advanced LangGraph and agent patterns
-building:   Reliable, evidence-grounded LLM systems
-```
+<img src="assets/profile.svg" width="100%" alt="Profile. Deepika Sajjan, B.E. in AI and ML 2026, PDA College of Engineering, CGPA 8.0. Software Development Intern at Pentagon Space. Selected for NAIN. Focus: RAG, LLM agents, NLI verification, full-stack apps. Open to full-time roles." />
 
 I build **LLM systems that show their evidence** and the **full-stack software** around them. On the AI side that means retrieval, agents and verification. On the software side, Python backends, databases and React front ends.
 
