@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="t d">
+<title id="t">Deepika Sajjan</title><desc id="d">Engineering intelligent systems. Building software that solves real problems. Open to full-time roles, class of 2026.</desc>
+<defs><linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset=".55" stop-color="#3B82F6"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<radialGradient id="g1" cx=".15" cy=".1" r=".6"><stop offset="0" stop-color="#22D3EE" stop-opacity=".22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx=".92" cy=".95" r=".6"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".28"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#22D3EE" stroke-opacity=".07"/></pattern>
+<linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+<clipPath id="r"><rect width="1200" height="380" rx="14"/></clipPath>
+<style>
+.fade1{animation:f 1s .2s both} .fade2{animation:f 1s .6s both} .fade3{animation:f 1s 1s both}
+@keyframes f{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.pulse{animation:p 1.8s ease-in-out infinite} @keyframes p{50%{opacity:.25}}
+.cur{animation:c 1s steps(1) infinite} @keyframes c{50%{opacity:0}}
+.sweep{animation:s 6s linear infinite} @keyframes s{from{transform:translateX(-600px)}to{transform:translateX(1200px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style></defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="380" fill="#05070D"/><rect width="1200" height="380" fill="url(#grid)"/>
+<rect width="1200" height="380" fill="url(#g1)"/><rect width="1200" height="380" fill="url(#g2)"/>
+<rect x="0" y="0" width="1200" height="44" fill="#0B1120"/><line x1="0" y1="44" x2="1200" y2="44" stroke="#1E2A44"/>
+<circle cx="26" cy="22" r="6" fill="#FF5F57"/><circle cx="48" cy="22" r="6" fill="#FEBC2E"/><circle cx="70" cy="22" r="6" fill="#28C840"/>
+<text x="100" y="27" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="14" fill="#8493AD">deepika@command-center:~$ <tspan fill="#22D3EE">whoami</tspan></text>
+<g class="fade1"><rect x="40" y="76" width="404" height="30" rx="15" fill="#0B1120" stroke="#2DD4BF" stroke-opacity=".6"/>
+<circle class="pulse" cx="62" cy="91" r="5" fill="#34D399"/>
+<text x="76" y="96" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="13" letter-spacing="1" fill="#E6EDF7">OPEN TO FULL-TIME ROLES · CLASS OF 2026</text></g>
+<g class="fade1" filter="url(#glow)"><text x="40" y="206" font-family='-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif' font-weight="800" font-size="92" textLength="1000" lengthAdjust="spacing" fill="url(#neon)">DEEPIKA SAJJAN</text></g>
+<g class="fade2"><text x="42" y="248" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="22" fill="#E6EDF7">&gt; Engineering intelligent systems.</text>
+<text x="42" y="280" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="22" fill="#E6EDF7">&gt; Building software that solves real problems.<tspan class="cur" fill="#22D3EE"> █</tspan></text></g>
+<g class="fade3">
+<rect x="40" y="306" width="320" height="38" rx="8" fill="#0B1120" stroke="#22D3EE" stroke-opacity=".7"/>
+<text x="58" y="330" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="14" letter-spacing="1.5" fill="#22D3EE">AI ENGINEERING</text>
+<text x="208" y="330" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="12" fill="#8493AD">RAG · agents · NLI</text>
+<rect x="376" y="306" width="416" height="38" rx="8" fill="#0B1120" stroke="#8B5CF6" stroke-opacity=".8"/>
+<text x="394" y="330" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="14" letter-spacing="1.5" fill="#A78BFA">SOFTWARE DEVELOPMENT</text>
+<text x="604" y="330" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="12" fill="#8493AD">Python · Django · React</text></g>
+<text x="1160" y="332" text-anchor="end" font-family='ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace' font-size="12" fill="#8493AD">B.E. AI &amp; ML · PDA CE, Kalaburagi</text>
+<rect x="0" y="372" width="1200" height="2" fill="#1E2A44"/>
+<g class="sweep"><rect x="0" y="371" width="400" height="4" fill="url(#scan)"/></g>
+</g>
+<rect x=".5" y=".5" width="1199" height="379" rx="14" fill="none" stroke="url(#neon)" stroke-opacity=".55"/>
+</svg>
